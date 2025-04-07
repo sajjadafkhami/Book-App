@@ -1,12 +1,27 @@
-# React + Vite
+# 📚 BookMate – A Clean & Modern Book Management Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookMate is a sleek and responsive book management app built using **React**. 
+It allows users to view and manage their book collection with features like adding/removing books, searching, and filtering by author or category.
 
-Currently, two official plugins are available:
+### 🌟 Key Features:
+- 📖 View book details like title, author, language, and pages
+- ❤️ Like and save books with a simple heart button
+- 📱 Fully responsive and mobile-friendly UI
+- ⚡ Built with React, CSS Modules for styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Tech Stack:
+- React
+- CSS Modules
+- React Icons (for heart icon)
+- PropTypes (for prop validation)
 
-## Expanding the ESLint configuration
+## 🛠️ Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run the project locally:
+
+```bash
+git clone https://github.com/sajjadafkhami/Book-App.git
+cd Book-App
+npm install
+npm run dev
+
